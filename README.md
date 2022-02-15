@@ -14,7 +14,7 @@ sum, mult, sub, div, pow(potencia), pct(porcentagem), sin, cos, log, tan, fat(fa
 - mult(num,num)
 - sub(num, num)
 - div(num, divisor)
-- pow(potencia)
+- pow(num, pot)
 - pct(pct, num)
 - sin(num) 
 - cos(num) 
